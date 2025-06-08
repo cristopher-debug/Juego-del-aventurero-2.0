@@ -246,7 +246,7 @@ public class juegoFinal {
         }
         
         System.out.println("╠════════════════════════════════════════════════════════════════════╣");
-        System.out.println("║ Leyenda: @-Tú E-Enemigo ♠-Árbol ≈-Río ▲-Montaña C-Cueva P-Playa  ║");
+        System.out.println("║ Leyenda: @-Tú E-Enemigo *-Árbol ~-Río ^-Montaña C-Cueva P-Playa  ║");
         System.out.println("║ R-Ruinas J-Jungla M-Montaña                                      ║");
         System.out.println("╚════════════════════════════════════════════════════════════════════╝");
         Utils.reiniciarColores();
