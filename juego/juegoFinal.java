@@ -225,17 +225,17 @@ public class juegoFinal {
                         break;
                     case 'T':
                         Utils.establecerColorVerde();
-                        System.out.print('♠');
+                        System.out.print('*');
                         Utils.establecerColorAzul();
                         break;
                     case '~':
                         Utils.establecerColorCian();
-                        System.out.print('≈');
+                        System.out.print('~');
                         Utils.establecerColorAzul();
                         break;
                     case '^':
                         Utils.establecerColorBlanco();
-                        System.out.print('▲');
+                        System.out.print('^');
                         Utils.establecerColorAzul();
                         break;
                     default:
